@@ -40,7 +40,7 @@ Installation
 
     ```json
     "require": {
-        "goalio/goalio-rememberme": "1.*"
+        "newtonsnerds/goalio-rememberme": "1.*"
     }
     ```
 
