@@ -1,5 +1,5 @@
 {
-    "name": "goalio/goalio-rememberme",
+    "name": "newtonsnerds/goalio-rememberme",
     "description": "Adding Remember Me functionalitiy to ZfcUser",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -25,5 +25,8 @@
         "classmap": [
             "./Module.php"
         ]
+    },
+    "replace": {
+        "goalio/goalio-rememberme": "~1.0"
     }
 }
